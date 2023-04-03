@@ -4,7 +4,6 @@ Hello everyone,
 I created a basic blog application in Django in case you would like to use as a base and build any of your requirements on it.
 
 Just to make sure that you have something to view inside of the application, I also included db.sqlite3, which includes a few posts, comments and categories.
-In case you would like to see the live version of my blog application, you can always visit my page using the link: <a href="https://www.ozan.pl">Ozan.pl</a>.
 
 ![Blog Application](https://i.imgur.com/6aPojv7.png)
 
