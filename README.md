@@ -72,7 +72,5 @@ The logic of the application is really simple:
 
 I have a separate application created to handle notifications. Both user and superuser receive a message from the system once a post or a comment is submitted. Then superuser can approve or delete if necessary.
 
-In case you have any questions, please feel free to use link <a href="https://www.ozan.pl/contact/">Ozan.pl Contact</a> to reach me out.
-
 Regards,
 Shivam Purohit
