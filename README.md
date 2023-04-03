@@ -75,4 +75,4 @@ I have a separate application created to handle notifications. Both user and sup
 In case you have any questions, please feel free to use link <a href="https://www.ozan.pl/contact/">Ozan.pl Contact</a> to reach me out.
 
 Regards,
-Ozan Tellioglu
+Shivam Purohit
